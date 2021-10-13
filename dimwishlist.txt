@@ -1,7 +1,7 @@
-title:blackmathdavey's PVE rolls
-description:rolls blackmathdavey likes for PVE
+title: blackmathdavey's PVE rolls
+description: rolls blackmathdavey likes for PVE
 
 // Jurassic Green
-//notes:handling masterwork
+//notes: handling masterwork
 dimwishlist:item=2261046232&perks=839105230,3230963543,1570042021,2848615171
 dimwishlist:item=2261046232&perks=839105230,679225683,1570042021,2848615171
