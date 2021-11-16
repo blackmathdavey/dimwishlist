@@ -5,3 +5,7 @@ description: rolls blackmathdavey likes for PVE
 //notes:blackmathdavey's PVE rolls: handling masterwork|tags:mkb,pve
 dimwishlist:item=2261046232&perks=839105230,3230963543,1570042021,2848615171
 dimwishlist:item=2261046232&perks=839105230,679225683,1570042021,2848615171
+
+// The Last Breath
+//notes:blackmathdavey's PVE rolls: range or handling masterwork|tags:mkb,pve
+dimwishlist:item=507038823&perks=3523296417,1774574192
