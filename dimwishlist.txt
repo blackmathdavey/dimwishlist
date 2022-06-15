@@ -9,3 +9,7 @@ dimwishlist:item=2261046232&perks=839105230,679225683,1570042021,2848615171
 // The Last Breath
 //notes:blackmathdavey's PVE rolls: range or handling masterwork|tags:mkb,pve
 dimwishlist:item=507038823&perks=3523296417,1774574192
+
+// Crafted Without Remorse
+//notes:blackmathdavey's PVE crafted PVE roll|tags:mkb,pve
+dimwishlist:item=1478986057&perks=4090651448,791862061,494941759,2675184851
